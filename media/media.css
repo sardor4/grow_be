@@ -1,0 +1,1044 @@
+@media(max-width:1700px){
+    .header__content_right{
+        width: 40vw;
+    }
+    .about-us__right{
+        width: 38vw;
+    }
+}
+@media(max-width:1560px){
+    .header__content_right img{
+        width: 100%;
+    }
+    .header{
+        background-position: 100px 250px;
+    }
+    .opportunity__left img{
+        width: 100%;
+    }
+    .mail-box__right img{
+        width: 140%;
+    }
+    .about-us__right img{
+        width: 120%;
+    }
+}
+@media (max-width:1450px) {
+    .mail-box__right img{
+        width: 110%;
+    }
+}
+@media (max-width:1300px){
+    .servises__card img{
+        width: 100%;
+    }
+}
+@media (max-width:1250px){
+    .left__content_title{
+        font-size: 50px;
+        margin-bottom: 15px;
+    }
+    .left__content_discription{
+        font-size: 16px;
+    }
+    .about-us__right img{
+        width: 100%;
+    }
+    .opportunity__card i{
+        padding: 15px;
+    } 
+    .opportunity__card{
+        align-items: center;
+    }
+}
+@media (max-width:1200px){
+    .plans__card_link{
+        padding: 9px 44px 8px 44px;
+    }
+    .plans__card_center_link{
+        padding: 9px 40px 8px 40px;
+    }
+    .plans__card_list_text{
+        font-size: 12px;
+    }
+    .team__card{
+        padding: 30px 45px;
+    }
+    .plans__card_price{
+        font-size: 62px;
+    }
+    .card__price_span{
+        margin-top: -56px;
+    }
+    .mail-box__title{
+        font-size: 42px;
+    }
+    .mail-box{
+        padding: 30px 0;
+    }
+    .mail-box__submit{
+       padding: 15px 40px 15px 41px;
+    }
+    .plans__card{
+        padding: 53px 63px 60px 63px;
+    }
+    .plans__card_center{
+        padding: 83px 69px 90px 69px;
+    }
+    .header__list_link{
+        margin: 11px 11px;
+    }
+    .brands .container{
+        justify-content: center;
+    }
+}
+@media (max-width:1080px){
+    .brand1 img{
+        width: 80%;
+    }
+    .brand2 img{
+        width: 80%;
+    }
+    .brand3 img{
+        width: 80%;
+    }
+    .brand4 img{
+        width: 80%;
+    }
+    .brand5 img{
+        width: 80%;
+    }
+    .brand6 img{
+        width: 80%;
+    }
+    .brands{
+        padding: 50px 0;
+    }
+}
+@media(max-width:992px){
+    .nav-item {
+        height: 30px;
+    }
+    .header__content_right {
+        width: 49vw;
+    }
+    .header__content_right img{
+        width: 130%;
+    }
+    .main__up{
+        font-size: 30px;
+    }
+    .left__content_title{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .left__content_discription{
+        margin-bottom: 40px;
+    }
+    .plans__card_link{
+        padding: 9px 34px 8px 34px;;
+    }
+    .plans__card_center_link{
+        padding: 9px 34px 8px 34px;;
+    }
+    .plans__card{
+        padding: 33px 28px 40px 28px;
+    }
+    .plans__card_center{
+        padding: 63px 30px 70px 30px;
+    }
+    .plans__card_price{
+        font-size: 60px;
+    }
+    .header__list_link{
+        max-width: max-content;
+        margin: 0;
+        margin-left: auto;
+    }
+    .header__nav_link{
+        max-width: max-content;
+        margin-left: auto;
+    }
+    .about-us__left_title{
+        font-size: 38px;
+        margin-bottom: 30px;
+    }
+    .about-us__right img{
+        width: 140%;
+    }
+    .features__card{
+        padding: 30px 19px 15px 19px;
+    }
+    .features__card img{
+        padding: 14px;
+    }
+    .features__card_title{
+        font-size: 16px;
+    }
+    .servises__title{
+        font-size: 38px;
+    }
+    .servises__discripion{
+        font-size: 14px;
+    }
+    .servises__card_title{
+        font-size: 20px;
+    }
+    .servises__card_discription{
+        font-size: 12px;
+    }
+    .servises__card_link{
+        font-size: 14px;
+        padding: 10px 25px;
+    }
+    .opportunity__right_title{
+        font-size: 38px;
+        line-height: 45px;
+    }
+    .border{
+        padding: 23px 62px 22px 62px;
+    }
+    .funfact__card_number{
+        font-size: 56px;
+    }
+    .funfact__card_title{
+        font-size: 14px;
+    }
+    .funfact {
+        padding: 60px 0;
+    }
+    .mail-box__title{
+        font-size: 34px;
+    }
+    .mail-box__discription{
+        font-size: 14px;
+        max-width: 440px;
+        margin-bottom: 30px;
+    }
+    .mail-box__form_content{
+        margin-bottom: 20px;
+    }
+    .form__control2{
+        margin-right: 0;
+    }
+    .mail-box__form{
+        flex-direction: column;
+        align-items: center;
+    }
+    .mail-box__submit{
+        max-width: max-content;
+    }
+    .mail-box__right img {
+        width: 154%;
+    }
+    .mail-box__right {
+        margin-top: -35px;
+    }
+    .plans__title{
+        font-size: 38px;
+    }
+    .plans__card_title{
+        font-size: 20px;
+    }
+    .plans__card_center_title{
+        font-size: 20px;
+    }
+    .plans__card_price{
+        font-size: 50px;
+        line-height: 85px;
+    }
+    .card__price_span {
+        margin-top: -39px;
+    }
+    .team__title{
+        font-size: 38px;
+        line-height: 50px;
+    }
+    .team__discripion{
+        font-size: 14px;
+    }
+    .team__card_title{
+        font-size: 16px;
+    }
+    .team__card_discription{
+        font-size: 12px;
+    }
+    .team__card{
+        padding: 20px 10px;
+    }
+    .team__card img{
+        width: 90%;
+    }
+    .footer__campany_title{
+        font-size:20px;
+    }
+    .footer__servises_title{
+        font-size:20px;
+    }
+    .footer__contacts_title{
+        font-size:20px;
+    }
+    .footer__content_discription{
+        max-width: 240px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .mail-box__right{
+        width: 40vw;
+    }
+}
+@media(max-width:900px){
+    .about-us__left_title{
+        font-size: 35px;
+        max-width: 370px;
+    }
+    .about-us__left_discription{
+        max-width: 400px;
+        font-size: 14px;
+        margin-bottom: 28px;
+    }
+    .about-us__left_link{
+        font-size: 14px;
+        padding: 10px 22px;
+    }
+    .about-us__right img{
+        width: 120%;
+    }
+    .opportunity__right_title{
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .opportunity__right_discrition{
+        margin: 0;
+    }
+    .opportunity__card i{
+        font-size: 30px;
+    }
+    .opportunity__card_title{
+        font-size: 18px;
+    }
+    .opportunity__right_discrition{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .opportunity__card{
+        padding: 17px 15px;
+    }
+    .mail-box .container{
+        flex-direction: column-reverse;
+        align-items:center;
+    }
+    .mail-box__title{
+        font-size: 30px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .mail-box__discription{
+        max-width: 300px;
+        text-align: center;
+    }
+    .mail-box__left{
+        width: 40vw;
+        align-items: center;
+    }
+    .mail-box__right{
+        width: 80%;
+    }
+    .mail-box__right img{
+        width: 100%;
+    }
+    .mail-box__submit{
+        padding: 10px 40px 10px 41px;
+    }
+}
+@media(max-width: 768px){
+    .header{
+        background-position: 20px 390px;
+        background-size: 90%;
+    }
+    .header___left{
+        width: 50%;
+    }
+    .header__content_right img{
+        width: 110%;
+    }
+    .left__content_title{
+        font-size: 35px;
+        line-height: 40px;
+        max-width: 460px;
+    }
+    .left__content_discription{
+        font-size: 14px;
+        max-width: 300px;
+    }
+    .main{
+        margin-top: 58px;
+    }
+    .about-us__left_discription{
+        max-width: 350px;
+    }
+    .about-us__right img{
+        width: 110%;
+    }
+    .news__card{
+        padding-right: 0;
+    }
+    .opportunity__right_title{
+        text-align: center;
+    }
+    .opportunity__right_discrition{
+        text-align: center;
+    }
+    .opportunity__right .row{
+        justify-content: center;
+    }
+    .opportunity__left{
+        display: none;
+    }
+    .opportunity__right .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .opportunity__right{
+        width: 100%;
+    }
+    .about-us__left_title{
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+    .about-us{
+        background-size: 1000px;
+    }
+    .servises{
+        padding: 70px 0;
+    }
+    .opportunity__right{
+        margin: 80px 0;
+    }
+    .main__up{
+        top: 90%;
+        left: 90%;
+    }
+    .servises__card_content{
+        flex-direction: column;
+        align-items: center;
+    }
+    .servises__card:nth-of-type(2),
+    .servises__card:nth-of-type(3){
+        margin-top: 20px;
+    }
+    .team__card_content{
+        flex-wrap: wrap;
+    }
+    .team__card{
+        width: 40%;
+        padding: 40px 5px;
+    }
+    .team__card:nth-of-type(1),
+    .team__card:nth-of-type(2){
+        margin-bottom: 40px;
+    }
+    .team__card img{
+        width: 50%;
+    }
+    .footer__servises_title{
+        margin: 0;
+    }
+    .about-us__right{
+        display: flex;
+        align-items: center;
+    }
+    .header__content_right{
+        display: flex;
+        align-items: center;
+    }
+}
+@media(max-width: 767px){
+    .links__content_link{
+        font-size: 12px;
+        padding: 10px 18px;
+        margin-right: 10px;
+    }
+    .links__content_link2 i{
+        border: 2px solid #DDDDDD;
+        font-size: 8px;
+        margin-right: 6px;
+    }
+    .links__content_link2 i:hover{
+        border: 2px solid var(--Primary);
+    }
+    .links__content_link2{
+        font-size: 12px;
+    }
+    .header___left{
+        width: 60%;
+    }
+    .features .container{
+        flex-direction: column;
+    }
+    .features__card{
+        padding: 40px 29px 25px 29px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about-us__left{
+        width: 50%;
+    }
+    .about-us__left_title{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .about-us__left_discription{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .about-us__left_link{
+        padding: 10px 18px;
+    }
+    .plans__car_content{
+        flex-direction: column;
+    }
+    .plans__card_center{
+        margin-top: 30px;
+        padding: 79px 93px 79px 100px;
+    }
+    .plans__card{
+        margin-top: 30px;
+        padding: 73px 63px 73px 70px ;
+    }
+    .border{
+        padding: 20px 38px 20px 38px;
+    }
+    .funfact__card_number{
+        font-size: 48px;
+    }
+    .funfact__card_title{
+        font-size: 12px;
+    }
+}
+@media(max-width: 700px){
+    .footer__content_discription{
+        font-size: 12px;
+        line-height: 20px;
+        max-width: 180px;
+    }
+    .footer__content{
+        width: 20%;
+    }
+    .footer__icons_content i:nth-of-type(1), .footer__icons_content i:nth-of-type(2), .footer__icons_content i:nth-of-type(3) {
+        margin-right: 10px;
+    }
+    .footer__icons_content i {
+        font-size: 11px;
+        padding: 4.37px 7px;
+    }
+    .nav__logo{
+        font-size: 22px;
+    }
+    .nav__logo img{
+        width: 25%;
+    }
+    .footer__logo{
+        font-size: 22px;
+    }
+    .footer__logo img{
+        width: 25%;
+    }
+    .footer__list_link{
+        font-size: 14px;
+    }
+    .contacts__list_location{
+        font-size: 14px;
+        max-width: 150px;
+    }
+    .contacts__list_title{
+        font-size: 14px;
+    }
+    .contacts__list_email{
+        font-size: 14px;
+    }
+    .contacts__list_number{
+        font-size: 14px;
+    }
+    .card__group_user:nth-of-type(1), .card__group_user:nth-of-type(2) {
+        margin-right: 16px;
+    }
+}
+@media(max-width: 650px){
+    .news__card_title{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .news__card_discription{
+        font-size: 13px;
+        max-width: 210px;
+    }
+    .news__slider_title{
+        font-size: 34px;
+        line-height: 50px;
+    }
+    .news__slider_discripion{
+        max-width: 460px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .about-us{
+        background-size: 650px;
+        background-position: center;
+    }
+    .news__card img{
+        width: 40%;
+    }
+    .slider__title{
+        font-size: 34px;
+        line-height: 50px;
+    }
+    .slider__discripion{
+        max-width: 460px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+@media(max-width: 576px){
+    .nav__logo{
+        font-size: 20px;
+    }
+    .header__nav img{
+        width: 26%;
+        margin-right: 10px;
+    }
+    .fa-bars{
+        font-size: 28px;
+    }
+    .footer__campany_title{
+        font-size: 16px;
+    }
+    .footer__servises_title{
+        font-size: 16px;
+    }
+    .footer__contacts_title {
+        font-size: 16px;
+    }
+    .about-us{
+        background-size: 576px;
+    }
+    .contacts__list_location{
+        max-width: 130px;
+        font-size: 12px;
+    }
+    .contacts__list_title{
+        font-size: 12px;
+    }
+    .contacts__list_title{
+        font-size: 12px;
+    }
+    .contacts__list_number{
+        font-size: 12px;
+    }
+    .contacts__list_email{
+        font-size: 12px;
+    }
+    .contacts__list_email{
+        font-size: 10px;
+        line-height: 15px;
+        max-width: 160px;
+    }
+    .footer__list_link{
+        font-size: 13px;
+    }
+    .footer__icons_content i:nth-of-type(1), 
+    .footer__icons_content i:nth-of-type(2), 
+    .footer__icons_content i:nth-of-type(3){
+        margin-right: 5px;
+    }
+    .under__footer_title{
+        font-size: 14px;
+        margin-top: 20px;
+        line-height: 28px;
+    } 
+    .footer{
+        padding-bottom: 12px;
+        padding-top: 70px;
+    }
+    .main__up{
+        font-size: 25px;
+    }
+    .carousel-indicators li{
+        height: 6px;
+        width: 6px;
+    }
+    .carousel-indicators .active{
+        width: 10px;
+        height: 10px;
+    }
+    .header {
+        background-position: 10px 280px;
+        background-size: 80%;
+    }
+    .about-us__right{
+        width: 50vw;
+    }
+    .about-us__right img{
+        width: 100%;
+    }
+    .left__content_discription{
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 30px;
+        max-width: 230px;
+    }
+    .header___left{
+        width: 50%;
+    }
+    .header__content_right img{
+        width: 100%;
+    }
+}
+@media(max-width:540px){
+    .footer__logo{
+        font-size: 16px;
+    }
+    .footer__logo img{
+        width: 20%;
+    }
+    .footer__content_discription{
+        font-size: 10px;
+        line-height: 17px;
+        margin-top: 52px;
+    }
+    .footer__list_link{
+        font-size: 12px;
+    }
+    .footer__campany_list li{
+        height: 30px;
+    }
+}
+@media(max-width:510px){
+    .servises__title{
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .servises__discripion{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .opportunity__right_title{
+        font-size: 28px;
+    }
+    .border {
+        padding: 14px 18px 14px 18px;
+        width: 90%;
+    }
+    .funfact .container .row{
+        display: flex;
+        justify-content: center;
+    }
+    .plans{
+        padding: 50px 0;
+    }
+    .plans__discription{
+        margin-bottom: 0;
+    }
+    .plans__title{
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .team__title{
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+    .team__discripion{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .about-us{
+        background-size: 510px;
+    }
+    .slider__title{
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .say__card_discripion{
+        font-size: 14px;
+    }
+    .news__slider_title{
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .news__card_discription{
+        font-size: 11px;
+        line-height: 18px;
+    }
+    .left__content_title{
+        font-size: 28px;
+    }
+}
+@media(max-width:450px){
+    .nav__logo{
+        font-size: 18px;
+    }
+    .header__nav img{
+        width: 23%;
+        margin-right: 5px;
+    }
+    .links__content_link{
+        padding: 9px 11px;
+        margin-right: 5px;
+    }
+    .links__content_link2{
+        font-size: 11px;
+    }
+    .about-us__left_title{
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .about-us__left_discription{
+        font-size: 11px;
+        line-height: 17px;
+    }
+    .about-us{
+        padding: 70px 0;
+        background-size: 450px;
+    }
+    .about-us__left_link{
+        font-size: 12px;
+        padding: 9px 10px;
+    }
+    .mail-box__form_content{
+        flex-direction: column;
+    }
+    .form__control{
+        border-radius: 10px 10px 0 0 ;
+        border-right: none;
+        border-bottom: 0.75px solid #CCCCCC;
+        width: 300px;
+    }
+    .form__control2{
+        border-radius: 0 0  10px 10px;
+        border-left: none;
+        border-top: 0.75px solid #CCCCCC;
+        width: 300px;
+    }
+    .mail-box__title{
+        font-size: 26px;
+        width: 340px;
+    }
+    .mail-box__discription{
+        width: 300px;
+    }
+    .funfact__card_number{
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .funfact__ellipse1{
+        width: 10px;
+        height: 10px;
+    }
+    .funfact__ellipse2{
+        width: 10px;
+        height: 10px;
+    }
+    .funfact__ellipse3{
+        width: 10px;
+        height: 10px;
+    }
+    .funfact__card_title{
+        font-size: 10px;
+    }
+    .footer__campany_list li{
+        height: 26px;
+    }
+    .footer__content_discription{
+        margin-right: 20px;
+    }
+    .footer__content{
+        width: 40%;
+    }
+    .footer__campany{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer__servises{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer__contacts{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer__container{
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .footer__content_discription{
+        margin-right: 0;
+        margin-top: 40px;
+    }
+}
+
+@media(max-width:390px){
+    .left__content_title{
+        font-size: 24px;
+        line-height: 26px;
+    }
+    .left__content_discription{
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+
+    .servises__title{
+        font-size: 24px;
+    }
+    .opportunity__card_discrition{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .border {
+        padding: 14px 10px 14px 10px;
+        width: 95%;
+    }
+
+
+}
+@media(max-width:375px){
+    .team__card_content{
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;
+    }
+    .team__card{
+        width: 80%;
+    }
+    .team__card:nth-of-type(1), 
+    .team__card:nth-of-type(2),
+    .team__card:nth-of-type(3){
+        margin-bottom: 30px;
+    }
+    .left__links_content{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .links__content_link{
+        max-width: max-content;
+        margin-bottom: 10px;
+    }
+    .about-us__left_title{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .about-us__left_discription{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .features__card_discripion{
+        max-width: 160px;
+        text-align: center;
+    }
+    .plans__card{
+        padding: 53px 53px 53px 60px;
+    }
+    .plans__card_center{
+        padding: 69px 83px 69px 90px;
+    }
+    .team__card_content{
+        margin-bottom: 60px;
+    }
+    .container__slider{
+        padding: 90px 0 70px 0;
+    }
+    .news__card{
+        flex-direction: column;
+        align-items: center;
+    }
+    .news__card img{
+        width: 90%;
+    }
+    .team__title{
+        font-size: 24px;
+        width: 350px;
+    }
+    .footer__campany_list{
+        margin-top: 20px;
+    }
+}
+@media (max-width:355px){
+    .about-us__left_discription{
+        font-size: 9px;
+        margin-bottom: 10px;
+    }
+    .about-us__left_title{
+        font-size: 18px;
+    }
+    .servises__card{
+        margin: 0;
+        padding: 0 10px 40px 10px;
+    }
+    .footer__contacts:nth-of-type(4){
+        margin-top: 58px;
+    }
+    .footer__contacts_title{
+    margin-bottom: 25px;
+    }
+    .plans__card_list_text{
+        font-display: 11px;
+    }
+    .plans__card_center_link{
+        padding: 7px 30px 7px 30px;
+    }
+    .plans__card_center{
+        padding: 69px 65px 69px 65px;
+    }
+}
+@media (max-width:320px){
+    .left__content_title{
+        font-size: 20px;
+    }
+    .left__content_discription{
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .links__content_link{
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+    .about-us__left_title{
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .mail-box__title{
+        font-size: 22px;
+    }
+    .opportunity__right_title{
+        font-size: 26px;
+        max-width: 260px;
+    }
+    .border{
+        width: 97%;
+        padding: 14px 5px 14px 5px;
+    }
+    .funfact__card_title{
+        font-size: 9px;
+    }
+    .opportunity__card_discrition{
+        font-size: 11px;
+    }
+    .opportunity__card{
+        padding-right: 0;
+    }
+    .team__title{
+        font-size: 22px;
+    }
+    .mail-box__title{
+        width: 310px;
+    }
+}
